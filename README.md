@@ -10,7 +10,7 @@ Skills: Python/SQL/R/Tableau/Power BI
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/YaqoobDavid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/yaqoob-david/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@David_absolute)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg' alt='tableau' height='40'>](YAQOOB DAVID)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YaqoobDavid&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YaqoobD&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/YaqoobDavid)  
 
