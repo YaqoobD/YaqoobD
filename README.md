@@ -1,4 +1,5 @@
 ### Hi there 👋, It's Yaqoob David
+#### “In God we trust, all others bring Data".
 #### Data Science and Analytics, ML/AI Concepts,Technology.
 
 Skills: Python/SQL/R/Tableau/Power BI
