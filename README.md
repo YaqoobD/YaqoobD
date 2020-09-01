@@ -1,6 +1,5 @@
 ### Hi Everyone! Welcome to Yaqoob David's GitHub Profile 👋
-### On this page I keep all of the docs of my peronal projects to showcase my skills and growth
-<!--
+### On this page I keep all of the docs of my peronal projects to showcase my skills and growth 🧐<!--
 **YaqoobDavid/YaqoobDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
